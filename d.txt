@@ -1,1 +1,3 @@
-aaaaaa
+mobaXterm---> terminal
+winscp----> file explorer
+vsCode------>editor
